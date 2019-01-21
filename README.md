@@ -2,6 +2,8 @@
 ## Usage
 Translate a word document type of file and save the result as document/text and keep the exactly same file format.
 
+![](https://vignette3.wikia.nocookie.net/logopedia/images/0/09/Google-Translate-2015.png/revision/latest?cb=20150322085018)
+
 ## Dependency
 [googletrans](https://pypi.org/project/googletrans/)<br/>
 
@@ -16,3 +18,4 @@ Can be found [here](https://py-googletrans.readthedocs.io/en/latest/)<br/>
 4. If you get HTTP 5xx error or errors like #6, it’s probably because Google has banned your client IP address.<br/>
 
 ## Acknowledgements
+A big Thank you to the whole team of [Messy Fractals](https://messyfractals.wordpress.com/), especially [Dhanya P](https://www.linkedin.com/in/dhanyap/?originalSubdomain=in) and [Arvind Sivdas](https://www.linkedin.com/in/arvindsivdas/?originalSubdomain=in) for letting me work under them and helping me get started with NLP !
